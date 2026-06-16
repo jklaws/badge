@@ -1,0 +1,19 @@
+{
+  "event": "JK at Universe '26",
+  "year": 2026,
+  "days": [
+    { "title": "OCT 28 - DAY 1", "date": "2026-10-28", "sessions": [
+      { "start": "07:30", "end": null,    "title": "Doors open",            "subtitle": "Fort Mason Center" },
+      { "start": "09:00", "end": null,    "title": "Opening Keynote",       "subtitle": "Main Stage" },
+      { "start": "10:30", "end": "12:00", "title": "Copilot deep dive",     "subtitle": "Workshop Hall A" },
+      { "start": "13:00", "end": "14:00", "title": "Lunch + demos",         "subtitle": "Expo floor" },
+      { "start": "15:00", "end": "16:00", "title": "My talk: Badge hacking","subtitle": "Maker stage" },
+      { "start": "18:00", "end": null,    "title": "Evening party",         "subtitle": "GitHub & partners" }
+    ]},
+    { "title": "OCT 29 - DAY 2", "date": "2026-10-29", "sessions": [
+      { "start": "09:00", "end": null,    "title": "Doors open",      "subtitle": "Fort Mason Center" },
+      { "start": "10:00", "end": "11:30", "title": "Actions at scale","subtitle": "Track 2" },
+      { "start": "14:00", "end": null,    "title": "Closing keynote", "subtitle": "Main Stage" }
+    ]}
+  ]
+}
